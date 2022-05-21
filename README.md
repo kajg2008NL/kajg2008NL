@@ -12,7 +12,7 @@ pip install bitches
 ✔️・**Latest open source project [Verox](https://github.com/kajg2008NL/Verox)**
 
 📩・**Want to reach? Add MeKaj#6732 on [discord](https://dsc.gg/chillandplay)**
-</a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajg2008NL&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="kajg2008NL" /> </p>
+</a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kajg2008NL&css&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="kajg2008NL" /> </p>
 🌐・**Discord: [https://dsc.gg/chillandplay](https://dsc.gg/chillandplay)**
 
 <a href="https://dsc.gg/chillandplay" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/484237335425187850.png"/></a>
