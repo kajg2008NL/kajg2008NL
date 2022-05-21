@@ -16,5 +16,5 @@ pip install bitches
 🌐・**Discord: [https://dsc.gg/chillandplay](https://dsc.gg/chillandplay)**
 
 <a href="https://dsc.gg/chillandplay" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/484237335425187850.png"/></a>
-<a href="https://dsc.gg/chillandplay" target="_blank"><img src="https://github.com/kajg2008NL/kajg2008NL/.github/workflows/sneke.yml" alt="sneke"></a>
+<a href="https://dsc.gg/chillandplay" target="_blank"><img src="https://github.com/kajg2008NL/kajg2008NL/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
 
