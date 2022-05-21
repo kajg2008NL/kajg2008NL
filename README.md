@@ -1,4 +1,4 @@
-<a href="https://dsc.gg/chillandplay" target="_blank"> <img src="https://cdn.discordapp.com/attachments/853347983639052318/857962898718720030/Rdimos_Github.png" alt="kajg2008NL's Github"/></a>
+<a href="https://dsc.gg/chillandplay" target="_blank"> <img src="https://cdn.discordapp.com/attachments/902946157066592337/977565119049531442/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3835333334373938333633393035323331382f3835373936323839383731383732303033302f5264696d6f735f4769746875622e706e67_1.png" alt="kajg2008NL's Github"/></a>
 
 ```sh-session
 pip install bitches
