@@ -15,6 +15,6 @@ pip install bitches
 </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kajg2008NL&count_private=true&hide=procfile,css&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="kajg2008NL" /> </p>
 🌐・**Discord: [https://dsc.gg/chillandplay](https://dsc.gg/chillandplay)**
 
-<a href="https://dsc.gg/chillandplay" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/956976561234513990.png"/></a>
+<a href="https://dsc.gg/chillandplay" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/484237335425187850.png"/></a>
 <a href="https://dsc.gg/chillandplay" target="_blank"><img src="https://github.com/kajg2008NL/kajg2008NL/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
 
